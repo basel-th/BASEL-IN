@@ -1,0 +1,37 @@
+/*** STRAT STYLE COLOR  BY BASEL AHMED***/
+
+.navbar-brand span,
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link,
+.about h2 span,
+.footer .copyright span,
+.subsribe .h1,
+.Featuers h2,
+i:hover,
+.our-skills .h1
+{
+    color: #1c61cf;
+}
+
+
+.option-box .gear-check,
+#scroll-top,.dropdown-menu >li> a:focus,
+.dropdown-menu >li> a:hover
+{
+  background:#1c61cf ;
+}
+
+
+.option-box .color-option
+{
+    border: 4px solid #1c61cf;
+}
+
+
+.Price_Table .Price_box:hover p
+{
+    border: 1px solid #1c61cf;
+}
+
+
+
+/*** END STYLE COLOR  BY BASEL AHMED***/

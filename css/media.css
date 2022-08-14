@@ -1,0 +1,161 @@
+
+
+
+
+/* SMART PHONES AND TABLES */
+
+@media(max-width:767px)
+{
+    h1{
+        font-size: 40px;
+        color: #f1260c;
+    }
+
+    #MY_Slide {
+        display: none !important;
+
+    }
+
+    p,.lead {
+        
+        font-size: 15px;
+    }
+    .subsribe .input-group {
+       
+        width: 95%;
+    
+   }
+  
+    .Featuers h2{
+        font-size: 40px; 
+    }
+    
+    .Featuers h4{
+        font-size: 30px;
+        margin-bottom: 0px;
+        padding-bottom: 0;
+    }
+    .our_team  .h1{
+        font-size: 35px;
+        margin-bottom: 50px;
+
+    }
+    .testimonials h2{
+        font-size: 34px;
+        margin-bottom: 20px;
+    }
+
+    .testimonials p{
+
+        color: #4a4848;
+        font-size: 15px;
+
+
+    }
+    .navbar-nav .nav-link {
+        padding-right: 0;
+        padding-left: 0;
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .option-box {position:fixed; top: 40%; left: 0;z-index: 9999;cursor: pointer;}
+    
+    .Price_Table .h1{font-size: 35px; font-weight: bold;}
+
+    .subsribe .h1{margin-bottom: 20px;font-size: 40px}
+
+    .our-skills .h1{font-size: 3.5rem;}
+
+
+    .input-group{
+
+        display: block;
+    }
+
+    .input-group .form-control{
+
+       width: 100%;
+       margin-bottom: 40px;
+       border-radius: 0;
+    }
+
+    .input-group .btn{border-radius:10px;} 
+
+    .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback) {
+        margin-left: 0px;
+        border-top-left-radius:10px;
+        border-bottom-left-radius: 10px;
+    }
+
+    .input-group:not(.has-validation)>.dropdown-toggle:nth-last-child(n+3), .input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+        height: 50px;
+    }
+    .info-team h3 {
+      
+        padding-top: 20px;
+     
+        font-size: 30px;
+    }
+    .Staties .h1{font-size: 40px;}
+
+    /* START PAGE ABOUT US BY BASEL AHMED */
+
+    .about-ceo h2{font-size: 30px;font-weight: bold;}
+
+    .about-us h1 {font-size: 46px;font-weight: bold; padding-top: 40px;color: black;}
+    
+    /* END PAGE ABOUT US BY BASEL AHMED */
+
+
+    /* START PAGE FQA BY BASEL AHMED */
+
+   .fqa h1{font-size: 30px;font-weight: bold;color: black;}
+
+   /* END  PAGE FQA BY BASEL AHMED */
+}
+
+/* SMALL SCREEN */
+
+@media(min-width:768px) And (max-width:991px){
+
+  
+    
+}
+
+
+
+/* Medium Screen */
+
+@media(min-width:992px) And (max-width:1199px){
+
+
+    .subsribe 
+    {
+        border-radius: 0;
+        margin-right: 5px;
+        width: 100%;
+        margin: 0px auto;
+    }
+
+   
+
+} 
+
+
+
+/* large Screen */
+
+@media(min-width:1200px){
+
+   
+  
+}
+
+
+
+
